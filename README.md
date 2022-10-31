@@ -10,6 +10,6 @@ The categories of the challenges are:
 * Forensics (Memory + Android Images)
 * Cryptography
 
-Most of the challenges can be downloaded from here.
-All the solvers are coming soon.
+Most of the problem setters are currently Stanley Halim (Enryu#7942), Chrisando Pardomuan (siahaan#9550), and me. One VM is created by the judges.
+Most of the challenges can be downloaded from here and all the solvers are coming soon.
 
